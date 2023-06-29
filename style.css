@@ -210,7 +210,7 @@ header.shadow .navbar a::after{
     margin-top: 2rem;
 }
 
-.video-container video{
+.video-container img{
     width: 760px;
 }
 .about{
@@ -299,7 +299,7 @@ header.shadow .navbar a::after{
     .home-text h1{
         font-size: 3rem;
     }
-    .video-container video{
+    .video-container img{
         width: 568px;
     }
     .home-text{
@@ -372,7 +372,7 @@ header.shadow .navbar a::after{
     .home-text h1{
         font-size: 1.8rem;
     }
-    .video-container video {
+    .video-container img {
         width: 100%;
     }
     .home-text{
